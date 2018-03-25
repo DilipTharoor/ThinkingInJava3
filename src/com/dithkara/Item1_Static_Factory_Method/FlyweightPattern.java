@@ -1,4 +1,4 @@
-package com.dithkara.Item1;
+package com.dithkara.Item1_Static_Factory_Method;
 
 import java.util.HashMap;
 import java.util.Map;

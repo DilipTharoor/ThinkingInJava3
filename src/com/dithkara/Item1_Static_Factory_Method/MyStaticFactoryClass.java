@@ -1,4 +1,4 @@
-package com.dithkara.Item1;
+package com.dithkara.Item1_Static_Factory_Method;
 
 /**
  * Accessing a class declared with a public static function.

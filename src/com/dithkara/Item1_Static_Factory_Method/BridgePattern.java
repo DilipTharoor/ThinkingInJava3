@@ -1,4 +1,4 @@
-package com.dithkara.Item1;
+package com.dithkara.Item1_Static_Factory_Method;
 
 /**
  * Implementation for Bridge pattern which is also a service provider pattern
